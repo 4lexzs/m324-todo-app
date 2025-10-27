@@ -121,3 +121,6 @@ Dann auf GitHub: Releases → Draft new release → v1.0.0
 
 ## 📝 Lizenz
 MIT
+
+## CI/CD Pipeline
+Automatische Tests laufen bei jedem Push.
