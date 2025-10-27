@@ -121,7 +121,3 @@ Dann auf GitHub: Releases → Draft new release → v1.0.0
 
 ## 📝 Lizenz
 MIT
-
----
-
-**M324 - DevOps Projekt | Note 6.0** 🎓
