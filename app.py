@@ -1,6 +1,4 @@
-"""
-Einfache Todo-App für M324 LB
-"""
+# TODO: Später könnte man hier eine Beschreibung zu den Todos hinzufügen
 
 from flask import Flask, render_template_string, request, redirect
 from datetime import datetime
