@@ -58,5 +58,5 @@ m324-todo-app/
 ```
 
 
-## 📝 Lizenz
+## Lizenz
 MIT
