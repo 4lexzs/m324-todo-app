@@ -11,7 +11,7 @@ Einfache Todo-Verwaltungs-App für die Modulabschlussprüfung M324.
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/IHR-USERNAME/m324-todo-app.git
+git remote add origin https://github.com/4lexzs/m324-todo-app.git
 git push -u origin main
 ```
 
@@ -21,7 +21,6 @@ git push -u origin main
 python -m venv venv
 
 # Aktivieren
-source venv/bin/activate  # Linux/Mac
 .\venv\Scripts\activate   # Windows
 
 # Dependencies installieren
